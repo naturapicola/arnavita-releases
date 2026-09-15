@@ -3,7 +3,7 @@
 Canal oficial de distribució pública de binaris APK per a l'aplicació mòbil **ArnaVita** (Gestió Apícola Professional).
 
 - 🌐 **Web Oficial**: [https://arnavita-dev.web.app](https://arnavita-dev.web.app)
-- 📦 **Darrera versió estable**: **v1.5.0**
+- 📦 **Darrera versió estable**: **v1.5.1**
 
 ---
 
@@ -11,9 +11,10 @@ Canal oficial de distribució pública de binaris APK per a l'aplicació mòbil 
 
 Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil:
 
-| Versió | Fitxer | Estat | Enllaç directe |
-| :---: | :---: | :---: | :---: |
-| **v1.5.0** | rnavita-v1.5.0.apk | 🟢 Estable | [Descarregar APK v1.5.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.5.0/arnavita-v1.5.0.apk) |
+| Versió | Fitxer | Estat | Novetats | Enllaç directe |
+| :---: | :---: | :---: | :---: | :---: |
+| **v1.5.1** | rnavita-v1.5.1.apk | 🟢 Estable | Correcció del Login de Google i Google Play Services | [Descarregar APK v1.5.1](https://github.com/naturapicola/arnavita-releases/releases/download/v1.5.1/arnavita-v1.5.1.apk) |
+| **v1.5.0** | rnavita-v1.5.0.apk | ⚪ Anterior | Actualitzacions OTA in-app | [Descarregar APK v1.5.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.5.0/arnavita-v1.5.0.apk) |
 
 ---
 
@@ -21,7 +22,7 @@ Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil
 1. Descarrega el fitxer .apk tocant l'enllaç superior des del teu navegador mòbil.
 2. Un cop descarregat, obre la notificació o el fitxer des del gestor de descàrregues.
 3. Si el teu telèfon t'avisa de *\"Fonts desconegudes\"*, activa l'opció *\"Permetre des d'aquesta font\"* per completar la instal·lació.
-4. L'aplicació s'instal·larà i podràs iniciar sessió amb el teu compte.
+4. L'aplicació s'instal·larà i podràs iniciar sessió amb el teu compte d'apicultor o amb Google.
 
 ---
 
