@@ -3,7 +3,7 @@
 Canal oficial de distribució pública de binaris APK per a l'aplicació mòbil **ArnaVita** (Gestió Apícola Professional).
 
 - 🌐 **Web Oficial**: [https://arnavita-dev.web.app](https://arnavita-dev.web.app)
-- 📦 **Darrera versió estable**: **v1.6.1**
+- 📦 **Darrera versió estable**: **v1.6.2**
 
 ---
 
@@ -13,7 +13,8 @@ Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil
 
 | Versió | Fitxer | Estat | Novetats | Enllaç directe |
 | :---: | :---: | :---: | :---: | :---: |
-| **v1.6.1** | arnavita-v1.6.1.apk | 🟢 Estable (Última) | Nom oficial ArnaVita, icona 1:1 centrada sense deformacions i SafeArea al menú | [Descarregar APK v1.6.1](https://github.com/naturapicola/arnavita-releases/releases/download/v1.6.1/arnavita-v1.6.1.apk) |
+| **v1.6.2** | arnavita-v1.6.2.apk | 🟢 Estable (Última) | Correcció crítica de l'instal·lador OTA per a Android (FileProvider segur) | [Descarregar APK v1.6.2](https://github.com/naturapicola/arnavita-releases/releases/download/v1.6.2/arnavita-v1.6.2.apk) |
+| **v1.6.1** | arnavita-v1.6.1.apk | 🟣 Anterior | Nom oficial ArnaVita, icona 1:1 centrada sense deformacions i SafeArea | [Descarregar APK v1.6.1](https://github.com/naturapicola/arnavita-releases/releases/download/v1.6.1/arnavita-v1.6.1.apk) |
 | **v1.6.0** | arnavita-v1.6.0.apk | 🟣 Anterior | Redisseny Modern Aesthetic 2.0 i nou favicon | [Descarregar APK v1.6.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.6.0/arnavita-v1.6.0.apk) |
 | **v1.5.1** | arnavita-v1.5.1.apk | 🟣 Anterior | Correcció del Login de Google i Google Play Services | [Descarregar APK v1.5.1](https://github.com/naturapicola/arnavita-releases/releases/download/v1.5.1/arnavita-v1.5.1.apk) |
 | **v1.5.0** | arnavita-v1.5.0.apk | 🟣 Anterior | Actualitzacions OTA in-app | [Descarregar APK v1.5.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.5.0/arnavita-v1.5.0.apk) |
@@ -29,4 +30,4 @@ Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil
 ---
 
 ## 🔄 Actualitzacions automàtiques (In-App OTA):
-A partir de la versió **v1.5.0**, ArnaVita comprova automàticament si hi ha actualitzacions disponibles cada vegada que s'inicia l'aplicació i et permet actualitzar amb un sol clic directament des del mòbil.
+A partir de la versió **v1.6.2**, el sistema d'actualització OTA d'Android compta amb el FileProvider segur configurat i et permet actualitzar amb un sol clic directament des de dins del mòbil per a totes les properes versions.
