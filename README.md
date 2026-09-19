@@ -3,7 +3,7 @@
 Canal oficial de distribució pública de binaris APK per a l'aplicació mòbil **ArnaVita** (Gestió Apícola Professional).
 
 - 🌐 **Web Oficial**: [https://arnavita-dev.web.app](https://arnavita-dev.web.app)
-- 📦 **Darrera versió estable**: **v1.10.0**
+- 📦 **Darrera versió estable**: **v1.11.0**
 
 ---
 
@@ -13,7 +13,8 @@ Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil
 
 | Versió | Fitxer | Estat | Novetats | Enllaç directe |
 | :---: | :---: | :---: | :---: | :---: |
-| **v1.10.0** | arnavita-v1.10.0.apk | 🟢 Estable (Última) | Logo corporatiu i eslògan, filtre anys transhumància/REGA, unificació revisions i caixes vs nuclis | [Descarregar APK v1.10.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.10.0/arnavita-v1.10.0.apk) |
+| **v1.11.0** | arnavita-v1.11.0.apk | 🟢 Estable (Última) | Icona mòbil 85-90%, neteja amenaces, flux eixams/fecundació, edició caixes/nuclis, SafeArea, redisseny 2x2 i graella 2x3 | [Descarregar APK v1.11.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.11.0/arnavita-v1.11.0.apk) |
+| **v1.10.0** | arnavita-v1.10.0.apk | ⚪ Anterior | Logo corporatiu i eslògan, filtre anys transhumància/REGA, unificació revisions i caixes vs nuclis | [Descarregar APK v1.10.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.10.0/arnavita-v1.10.0.apk) |
 | **v1.9.0** | arnavita-v1.9.0.apk | ⚪ Anterior | Autenticació biomètrica nativa, icones unificades, mètriques d'apiari, SafeArea, Transhumància Totes, Revisions tri-estat/amenaces/eixams, Caixes vs Nuclis (fecundació 30 dies) i SettingsScreen | [Descarregar APK v1.9.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.9.0/arnavita-v1.9.0.apk) |
 | **v1.8.0** | arnavita-v1.8.0.apk | ⚪ Anterior | Tauler compacte 44px, gestió d'explotació (llibres de medicaments/retirada, alimentació, DACC, fumador) i bàscula agrícola | [Descarregar APK v1.8.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.8.0/arnavita-v1.8.0.apk) |
 | **v1.7.0** | arnavita-v1.7.0.apk | ⚪ Anterior | High-End Aesthetic 2.0, selectors segmentats de cria/varroa, cerca reactiva d'apiaris i favicon oficial | [Descarregar APK v1.7.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.7.0/arnavita-v1.7.0.apk) |
