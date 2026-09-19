@@ -3,7 +3,7 @@
 Canal oficial de distribució pública de binaris APK per a l'aplicació mòbil **ArnaVita** (Gestió Apícola Professional).
 
 - 🌐 **Web Oficial**: [https://arnavita-dev.web.app](https://arnavita-dev.web.app)
-- 📦 **Darrera versió estable**: **v1.12.0**
+- 📦 **Darrera versió estable**: **v1.13.0**
 
 ---
 
@@ -13,7 +13,8 @@ Pots descarregar directament l'arxiu d'instal·lació per al teu telèfon mòbil
 
 | Versió | Fitxer | Estat | Novetats | Enllaç directe |
 | :---: | :---: | :---: | :---: | :---: |
-| **v1.12.0** | arnavita-v1.12.0.apk | 🟢 Estable (Última) | Adaptabilitat responsiva Web/Escriptori (Opció 2), graella d'apiaris en 2/3 columnes (>= 660px) i contenidors centrats (maxWidth 1140px) | [Descarregar APK v1.12.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.12.0/arnavita-v1.12.0.apk) |
+| **v1.13.0** | arnavita-v1.13.0.apk | 🟢 Estable (Última) | ArnaVita Web Desktop Experience (menú lateral persistent a Web >= 900px, layout Master-Detail a 2 panells, efectes HoverEffect i accions en graella) | [Descarregar APK v1.13.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.13.0/arnavita-v1.13.0.apk) |
+| **v1.12.0** | arnavita-v1.12.0.apk | ⚪ Anterior | Adaptabilitat responsiva Web/Escriptori (Opció 2), graella d'apiaris en 2/3 columnes (>= 660px) i contenidors centrats (maxWidth 1140px) | [Descarregar APK v1.12.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.12.0/arnavita-v1.12.0.apk) |
 | **v1.11.0** | arnavita-v1.11.0.apk | ⚪ Anterior | Icona mòbil 85-90%, neteja amenaces, flux eixams/fecundació, edició caixes/nuclis, SafeArea, redisseny 2x2 i graella 2x3 | [Descarregar APK v1.11.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.11.0/arnavita-v1.11.0.apk) |
 | **v1.10.0** | arnavita-v1.10.0.apk | ⚪ Anterior | Logo corporatiu i eslògan, filtre anys transhumància/REGA, unificació revisions i caixes vs nuclis | [Descarregar APK v1.10.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.10.0/arnavita-v1.10.0.apk) |
 | **v1.9.0** | arnavita-v1.9.0.apk | ⚪ Anterior | Autenticació biomètrica nativa, icones unificades, mètriques d'apiari, SafeArea, Transhumància Totes, Revisions tri-estat/amenaces/eixams, Caixes vs Nuclis (fecundació 30 dies) i SettingsScreen | [Descarregar APK v1.9.0](https://github.com/naturapicola/arnavita-releases/releases/download/v1.9.0/arnavita-v1.9.0.apk) |
